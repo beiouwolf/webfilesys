@@ -69,7 +69,7 @@ public class SetCharacterEncodingFilter implements Filter {
      */
     protected String encoding = null;
 
-
+//123123
     /**
      * The filter configuration object we are associated with.  If this value
      * is null, this filter instance is not currently configured.
